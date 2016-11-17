@@ -1,7 +1,7 @@
 /**
  *
  */
- package testProject;
+ package uploadToGitHub;
  
  /**
   *@author sebers
